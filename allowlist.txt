@@ -1,0 +1,8 @@
+! Title: Personal DNS Allowlist
+! Description: Explicit domain exceptions for AdGuard Home.
+!
+! Each rule below allows the named domain and its subdomains.
+! Add only domains you deliberately want to exempt from blocking.
+
+! No-IP website
+@@||noip.com^
